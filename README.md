@@ -7,11 +7,11 @@ I'm a passionate new developer, problem solver, and lifelong learner. Whether it
 
 🛠️ Tech Stack so far
 
-Python 🏗️ (My go-to for automation, data handling, and backend work)
+ - Python 🏗️ (My go-to for automation, data handling, and backend work)
 
-React & JavaScript ⚡ (For building cool, interactive web experiences)
+ - React & JavaScript ⚡ (For building cool, interactive web experiences)
 
-Firebase & Node.js 🔥 (Backend magic + real-time features)
+ - Firebase & Node.js 🔥 (Backend magic + real-time features)
 
 📦 How to Reach Me:
 
